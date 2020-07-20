@@ -1,5 +1,4 @@
 # IstiqomahGroup
-Group Project for Mobile Application course (INFO 4302)
 
 <h5>a. Group Members</h5>
 
@@ -39,7 +38,7 @@ iii. List of Questions (Categorical)
 - Players will be unable to go back to previous questions.
 - A total of 10 questions for each category.
 
-<h5>iv. Firebase</h5>
+iv. Firebase
 
 - Storage for user credentials
 - Storage for user’s score and rank
