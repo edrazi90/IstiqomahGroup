@@ -46,10 +46,10 @@ iii. List of Questions (Categorical)
 - Storage for questionnaires
 
 <h5>f. Screen Navigation</h5>
-(NavigationDiagram.jpeg)
+![](NavigationDiagram.jpeg)
 
 <h5>g. Sequence Diagram</h5>
-(SequenceDiagram.jpeg)
+![](SequenceDiagram.jpeg)
 
 <h5>h. References</h5>
 
